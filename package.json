@@ -1,0 +1,17 @@
+{
+  "name": "ivona-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run src/inder.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find-exec": "^1.0.0",
+    "ivona-node": "^0.4.0",
+    "vorpal": "^1.11.4"
+  }
+}
